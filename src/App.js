@@ -2,6 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import Routes from "./Components/Router/Routes";
 import "flowbite";
+import "react-toastify/dist/ReactToastify.css";
 
 function App() {
   return (
